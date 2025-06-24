@@ -1,7 +1,7 @@
 
 # 🧾 Feature Description
 
-Below is a list of the 54 features used by the DDoS Detection API, along with their descriptions:
+Below is a list of the 40 features used by the DDoS Detection API, along with their descriptions:
 
 | Feature Name             | Description |
 |--------------------------|-------------|
